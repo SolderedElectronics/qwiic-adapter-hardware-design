@@ -124,3 +124,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi easyC adapter to Raspberry-Pi-easyC-adapter-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/easyC adapter/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main f761845] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/easyC-adapter-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi easyC adapter/OUTPUTS/V1.1.1: all files are present, commiting...
+Raspberry-Pi-easyC-adapter-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi easyC adapter to Raspberry-Pi-easyC-adapter-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/easyC adapter/.git/
