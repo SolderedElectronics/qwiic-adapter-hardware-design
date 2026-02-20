@@ -1,0 +1,4 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"DM1","SKU: 700021","","Soldered footprints:PCB","1",""
+"K1,K2","qwiic-SMD","","Soldered footprints:qwiic-connector","2",""
+"K3","HEADER_MALE_4X1","","Soldered footprints:HEADER_MALE_4X1","1",""
